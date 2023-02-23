@@ -51,4 +51,6 @@ float: left;
 }
 #tq{
   float:right;
+position: relative;
+    left: -100px;
 }
