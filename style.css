@@ -1,0 +1,51 @@
+body{
+  background-color: #CD853F;
+ 
+}
+
+
+
+}
+div{
+ 
+    width: 500px;
+  
+}
+
+col{
+  font-family: "Times New Roman", Times, serif;
+
+}
+  
+#hp  {
+  justify-content: center;
+float: left; 
+ margin: 0 0 0 15px;
+  height:auto;
+  width: 500px;
+}
+
+#qr{
+ 
+  float:left;
+  margin: 0 0 0 15px;
+   margin-top:20px;
+  
+}
+
+#hd{
+    float:right;
+   margin: 0 0 0 15px;
+  height:auto;
+  margin-top: 30px;
+ 
+}
+#he{
+  justify-content:center;
+
+  float:right;
+
+  height:auto;
+    margin-top: 30px;
+ 
+}
