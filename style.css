@@ -37,7 +37,7 @@ float: left;
     float:right;
    margin: 0 0 0 15px;
   height:auto;
-  margin-top: 30px;
+  margin-top: 40px;
  
 }
 #he{
@@ -46,6 +46,9 @@ float: left;
   float:right;
 
   height:auto;
-    margin-top: 30px;
+    margin-top: 24px;
  
+}
+#tq{
+  float:right;
 }
